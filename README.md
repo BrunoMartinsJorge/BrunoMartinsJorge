@@ -24,7 +24,7 @@
 
 <div align="center" style="margin-top: 30px;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMartinsJorge&show_icons=true&theme=radical&title_color=dec129&locale=pt-br)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMartinsJorge&show_icons=true&theme=radical&title_color=dec129&locale=pt-br&cache_seconds=60)
 
 </div>
 
@@ -63,7 +63,7 @@ Sou um desenvolvedor Front End que está sempre em busca de aprender novas técn
 
 <div align="center"><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsJorge&layout=compact&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsJorge&layout=compact&locale=pt-br&cache_seconds=60)
 
 ### Linguagens e Frameworks 🌐
 
