@@ -65,7 +65,7 @@ Sou um desenvolvedor Front End que está sempre em busca de aprender novas técn
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMartinsJorge&layout=compact&locale=pt-br&cache_seconds=60)
 
-### Linguagens e Frameworks 🌐
+### Linguagens e Frameworks que já utilizei🌐
 
 <div style="display: inline_block">
 
