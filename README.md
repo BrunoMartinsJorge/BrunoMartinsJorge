@@ -6,8 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Olá!+Eu+sou+o+Bruno+Martins+Jorge+🫡.;Desenvolvedor+Full+Stack.;Construindo+aplicações+com+clean+code.;Sempre+aprendendo+algo+novo.;Vamos+construir+algo+incrível+juntos." alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Ol%C3%A1!+Eu+sou+o+Bruno+Martins+Jorge!;Desenvolvedor+Full+Stack.;Construindo+aplica%C3%A7%C3%B5es+com+clean+code.;Sempre+aprendendo+algo+novo.;Vamos+construir+algo+incr%C3%ADvel+juntos." alt="Typing SVG" />  </a>
 </div>
 
 <br/>
@@ -179,16 +178,6 @@ Entre os principais recursos estão:
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=BrunoMartinsJorge&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="80%" />
-
-</div>
-
----
-
-## 📈 Activity and Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BrunoMartinsJorge/BrunoMartinsJorge/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
 
