@@ -198,7 +198,7 @@ Entre os principais recursos estão:
 
 <div align="center">
 
-![snake animation](https://github.com/BrunoMartinsJorge/BrunoMartinsJorge/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/BrunoMartinsJorge/BrunoMartinsJorge/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
